@@ -1,0 +1,30 @@
+
+.both{
+    display: flex;
+}
+
+.sign{
+    margin-left: 20%;
+    margin-top: 20%;
+}
+
+.logos{
+    width:15%;
+    margin-bottom: 70%;
+    margin-left: 10%;
+}
+.offices{
+   
+        margin-top: 30%;
+        margin-left: -15%;
+   
+}
+.names{
+    display: flex;
+}
+
+.firstname{
+    margin-top: 40%;
+    margin-left: 20%;
+}
+

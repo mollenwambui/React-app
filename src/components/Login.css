@@ -1,0 +1,78 @@
+.login{
+    display:flex ;
+}
+.logo{
+    width:15%;
+    margin-bottom: 70%;
+    margin-left: 10%;
+
+}
+
+.office{
+    margin-top: 30%;
+    margin-left: -15%;
+}
+.orange{
+background-color:#fdf7f3;
+height: 100vh;
+}
+
+.password{
+    width: 90%;
+    height: 30px;
+    border-radius: 10px;
+    border-width: 0.1px;
+    border-color: grey;
+}
+
+.email{
+    width: 90%;
+    height: 30px;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: grey;
+}
+
+
+::placeholder {
+    padding-left: 7px;
+  }
+
+.welcome{
+   margin-right: -50%;
+    margin-top: 60%;
+    font-size: 120%;
+}
+
+.white{
+    margin-left: 15%;
+}
+
+.details{
+    color: gray;
+}
+
+.remember{
+    font-size: 70%;
+    padding-bottom: 8px;
+}
+
+.forgot{
+    font-size: 70%;
+    color: #FF914D;
+    margin-left: 60%;
+    margin-top: -12%;
+}
+.button{
+    width: 90%;
+    height: 30px;
+    border-radius: 10px;
+    border-width: 1px ;
+    border-color: #FF914D;
+    background-color: #FF914D;
+    color: white;
+}
+
+.signup{
+    color: #FF914D;
+}
